@@ -9,8 +9,8 @@ class WhatsappBot:
         # Mensagem que será enviada.
         self.mensagem = 'Olá, esta é uma mensagem gerada automaticamente por um BOT.'
 
-        # Para quem está enviando.
-        self.contatos = ["Insira o(s) contato(s) aqui"]
+        # Para quem está enviando. Um ou mais contatos.
+        self.contatos = ["Insira um contato aqui", "Outro contato aqui"]
 
         # Configuração do Drive.
         config = webdriver.ChromeOptions()
