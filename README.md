@@ -36,7 +36,7 @@ class WhatsappBot:
 
 ### Função que inicia o envio da mensagem.
 ```
-# Cria uma função par enviar a mensagem.
+# Cria uma função para enviar a mensagem.
     def EnviarMensagem(self):
         # Entra no Site.
         self.driver.get('http://web.whatsapp.com')
