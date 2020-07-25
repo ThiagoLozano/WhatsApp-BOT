@@ -83,13 +83,21 @@ class WhatsappBot:
 
 # Bibliotecas e Configurações
 
-### Biblioteca Python Utilizada.
+### Biblioteca Python Utilizada
 
 ```
 from selenium import webdriver
 import time
 ```
 ![Biblioteca](https://github.com/ThiagoLozano/WhatsApp-BOT/blob/master/Screenshot/Bibliotecas.PNG)
+
+### Configurações
+* WebDrive
+> https://chromedriver.chromium.org/downloads
+
+> Versão download 85.0.4183.38
+
+* Extrair o .ZIP e colocar dentro do diretório Python.
 
 # Referência de Estudo
 * https://github.com/Jhonatan-de-Souza
