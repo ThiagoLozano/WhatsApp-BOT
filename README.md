@@ -3,7 +3,7 @@
 > Um sistema autônomo de envio de mensagem para os contatos do WhatsApp.
 
   Criar um sistema que possa entrar no WhatsApp e enviar uma mensagem de forma autônoma para um ou mais contatos.
-- 'Mensagem Automática: Olá eu sou um Bot Mensageiro'
+- 'Olá, essa é uma mensagem gerada automaticamente por um BOT.'
 
 # Tecnologias Utilizadas
 * **_PyCharm;_**
