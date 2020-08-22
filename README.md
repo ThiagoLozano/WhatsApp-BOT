@@ -2,9 +2,8 @@
 
 > Um sistema autônomo de envio de mensagem para os contatos do WhatsApp.
 
-  O projeto tem como objetivo enviar mensagens de forma que as entregas sejam automáticas entre os contatos
-desejados. Uma mesma mensagem será entregue para os contatos selecionados, útil na área de marketing, onde
-você deseja fornecer uma promoção, ou um novo produto e queira compartilhar isso para seus clientes.
+  Criar um sistema que possa entrar no WhatsApp e enviar uma mensagem de forma autônoma para um ou mais contatos.
+- 'Mensagem Automática: Olá eu sou um Bot Mensageiro'
 
 # Tecnologias Utilizadas
 * **_PyCharm;_**
@@ -69,7 +68,7 @@ class WhatsappBot:
 
 * Onde:
 
-> _self.driver.find_..._  refe-se a maior herarquia dentro da tag HTML usando f12 no computador (inspeção)
+> _self.driver.find_..._  refe-se a maior herarquia dentro da tag HTML, usando f12 no computador (inspeção)
 
 > _click()_ função que executa um clique dentro da página.
 
